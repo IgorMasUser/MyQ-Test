@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2924dad1-1f4b-4281-8cbc-c28ac083eb94": {
+      "ProjectGuid": "2924dad1-1f4b-4281-8cbc-c28ac083eb94",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 0
+    },
+    "746a8071-61af-4204-b9c8-e4330c30e7c4": {
+      "ProjectGuid": "746a8071-61af-4204-b9c8-e4330c30e7c4",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 1
+    },
+    "9c4f9268-684d-47d0-a167-d090b9bda8a4": {
+      "ProjectGuid": "9c4f9268-684d-47d0-a167-d090b9bda8a4",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9e84cbca-1e0d-4a89-875b-68f85fe6ef23": {
+      "ProjectGuid": "9e84cbca-1e0d-4a89-875b-68f85fe6ef23",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 3
+    },
+    "0f0c38e9-e405-4987-b4be-dd1617f9cfd1": {
+      "ProjectGuid": "0f0c38e9-e405-4987-b4be-dd1617f9cfd1",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 4
+    },
+    "9979d8a4-a93e-4ae2-b0ca-00ddcb5f01cc": {
+      "ProjectGuid": "9979d8a4-a93e-4ae2-b0ca-00ddcb5f01cc",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 5
+    },
+    "57fe8ec0-13e0-4fd2-a9ab-1b8534bf33eb": {
+      "ProjectGuid": "57fe8ec0-13e0-4fd2-a9ab-1b8534bf33eb",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 6
+    },
+    "6284a8e4-f227-4b89-8e82-ae70d089918a": {
+      "ProjectGuid": "6284a8e4-f227-4b89-8e82-ae70d089918a",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 7
+    },
+    "88911a90-a5cc-4e4c-824b-bd70bebbb431": {
+      "ProjectGuid": "88911a90-a5cc-4e4c-824b-bd70bebbb431",
+      "DisplayName": "CleaningRobotApp",
+      "ColorIndex": 8
+    },
+    "ac30221b-7afd-49f9-8ad5-0f4c1243f360": {
+      "ProjectGuid": "ac30221b-7afd-49f9-8ad5-0f4c1243f360",
+      "DisplayName": "RobotTest",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

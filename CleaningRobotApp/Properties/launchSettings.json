@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CleaningRobotApp": {
+      "commandName": "Project",
+      "commandLineArgs": "input.json output.json"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

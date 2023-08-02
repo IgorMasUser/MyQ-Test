@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEdf4qlzJ6dcOkNOmYVCHWTmrmjuN/dV/7Nfk8Szl1ekg1NHlQ3GyKoV3TFMzNw9J0298fbOPgqdyB/s2IPtZw==",
+  "success": true,
+  "projectFilePath": "E:\\TestTasks\\MyQ\\Solution 4\\CleaningRobotApp\\CleaningRobotApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor Maslov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Igor Maslov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Igor Maslov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
